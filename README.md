@@ -9,4 +9,4 @@
 
 basic_template는 백준을 파이썬으로 풀 때
 기본 파이썬 input함수의 속도문제를 해결해주며
-input.txt로 input을 받아서 편하게 문제를 풀려고 만든 템플릿 이다
+input.txt로 input을 받아서 편하게 문제를 풀려고 만든 템플릿 이다. (https://github.com/tony9402/baekjoon 여기서 가져옴)
